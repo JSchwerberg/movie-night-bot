@@ -1,4 +1,4 @@
-module junaos.com/movie-night-bot
+module github.com/jschwerberg/movie-night-bot
 
 go 1.17
 
